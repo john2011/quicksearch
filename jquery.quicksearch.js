@@ -14,7 +14,6 @@
 				return;
 			},
 			onAfter: function () { 
-                                var b = 20;
 				return;
 			},
 			show: function () {
