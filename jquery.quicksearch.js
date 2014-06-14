@@ -2,6 +2,8 @@
     $.fn.quicksearch = function(target, opt) {
         
         var a=10;
+        
+        var b =200;
 
         var timeout, cache, rowcache, jq_results, val = '', e = this, options = $.extend({
             delay: 100,
