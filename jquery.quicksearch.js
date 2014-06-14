@@ -9,8 +9,6 @@
 			noResults: '',
 			bind: 'keyup',
 			onBefore: function () { 
-                            
-                                var a = 10;
 				return;
 			},
 			onAfter: function () { 
