@@ -8,7 +8,8 @@
 			loader: null,
 			noResults: '',
 			bind: 'keyup',
-			onBefore: function () { 
+			onBefore: function () {
+                            var a =10;
 				return;
 			},
 			onAfter: function () { 
